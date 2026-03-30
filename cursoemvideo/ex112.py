@@ -1,0 +1,1 @@
+#dentro de dador que criamos anteriormente crie uma função chamada leiadinheiro() que seja capaz de funcionar como a função input mas com uma função de validação que aceite apenas valores monetarios

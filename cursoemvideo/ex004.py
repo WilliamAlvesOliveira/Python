@@ -1,0 +1,7 @@
+algo =(input('Digite qualquer coisa '))
+print(type(algo))
+print('é um numero: ',algo.isnumeric())
+print('é alfabetico: ',algo.isalpha())
+print('esta em letras maiusculas: ',algo.isupper())
+print('pode ser escrito: ',algo.isprintable())
+print('Esta capitalizada: ', algo.istitle())
